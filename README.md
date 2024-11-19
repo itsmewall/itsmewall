@@ -1,8 +1,10 @@
 ## Bem-vindo ao meu GitHub!
 Olá! Eu sou o Wallace, um estudante de Engenharia Aeroespacial com uma paixão por tecnologia e programação.
+Eu busco inovar em diversas áreas do desenvolvimento e gosto de fazer softwares e scripts voltados para o setor aeroespacial.
 
 - 🖥️ Desenvolvedor FullStack
 - 🐍 Aprendendo Machine Learning
+- ✈️ Apaixonado por aviação
 
 ### Minhas Estatísticas do GitHub
 <div>
